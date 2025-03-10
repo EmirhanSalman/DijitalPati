@@ -8,21 +8,21 @@ DijitalPati, evcil hayvan sahipleri için kaybolma durumlarında hızlı çözü
 Kullanıcılar, evcil hayvanları için profil oluşturabilir, bilgilerini güncelleyebilir ve sağlık geçmişlerini saklayabilir.
 Her evcil hayvan için benzersiz bir QR kod oluşturulur.
 QR kod okutulduğunda, evcil hayvanın profil bilgileri ve sahibinin iletişim bilgileri görüntülenir.
-Konum izni alınarak, hayvanın son görüldüğü konum bilgisi paylaşılır.
+Konum izni alınarak, hayvanın son görüldüğü konum bilgisi paylaşılır.<br>
 📌 Kayıp İlanı Yayınlama ve Takip Sistemi
 Kullanıcılar, kaybolan evcil hayvanları için sistem üzerinden ilan oluşturabilir.
-İlanlar harita üzerinde gösterilerek, kaybolan hayvanın bulunduğu bölge işaretlenir.
+İlanlar harita üzerinde gösterilerek, kaybolan hayvanın bulunduğu bölge işaretlenir.<br>
 📌 Evcil Hayvan Sağlık Takibi
 Evcil hayvanların sağlık geçmişi (aşılar, hastalıklar, operasyonlar) profilde saklanabilir.
-Beslenme ve bakım takibi yapılabilir (gelecek sürümlerde geliştirilecek).
+Beslenme ve bakım takibi yapılabilir (gelecek sürümlerde geliştirilecek).<br>
 📌 Kullanıcı Etkileşimi ve Bildirimler
 Hayvanı bulan kişi ile sahibi sistem üzerinden mesajlaşabilir.
 Kayıp ilanları, veteriner randevuları ve aşı hatırlatmaları için e-posta bildirimleri gönderilir.
 Acil durum bildirimi ile hayvanın sahibi hızla bilgilendirilebilir.
-Gelecek sürümlerde mobil bildirim desteği sağlanacaktır.
+Gelecek sürümlerde mobil bildirim desteği sağlanacaktır.<br>
 📌 En Yakın Veteriner ve Petshop Bilgileri
 Harita üzerinden en yakın veteriner klinikleri ve petshoplar görüntülenebilir.
-Veteriner randevu sistemi, mobil uygulama versiyonu ile geliştirilecektir.
+Veteriner randevu sistemi, mobil uygulama versiyonu ile geliştirilecektir.<br>
 
 📌 Proje Kategorisi: Evcil Hayvan Teknolojileri 
 
