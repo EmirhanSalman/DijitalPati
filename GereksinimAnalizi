@@ -6,33 +6,49 @@ Proje Ekibi: Emirhan Salman
 DijitalPati Projesi - Gereksinim Listesi
 
 Kullanıcı Kaydı ve Giriş Sistemi
-(1-2)Kullanıcılar, sisteme kayıt olabilir ve giriş yapabilir.
+(1) Kullanıcı Kaydı: Kullanıcılar sisteme kayıt olmak için gerekli bilgileri girerek hesap oluşturabilirler.
+(2) Kullanıcı Girişi: Kullanıcılar, kayıtlı hesaplarıyla sisteme giriş yapabilirler.
 
 Kullanıcı Profili Oluşturma
-(3-4)Kullanıcılar, evcil hayvanları için eksiksiz bir profil oluşturabilecek (Ad, tür, cins, yaş, özel işaretler, fotoğraflar).Her evcil hayvan profili için benzersiz bir ID kod oluşturulacak
+(3) Evcil Hayvan Profili Oluşturma: Kullanıcılar, evcil hayvanları için profil oluşturabilir ve gerekli bilgileri (Ad, tür, cins, yaş, özel işaretler, fotoğraflar) girebilirler.
+(4) Benzersiz ID Oluşturma: Her evcil hayvan profili için sistem otomatik olarak benzersiz bir ID kodu oluşturur.
 
-(5-6)Kullanıcı Profil Bilgilerinin Güncellenmesi ve Silinmesi
+Kullanıcı Profil Bilgilerinin Güncellenmesi ve Silinmesi
+(5) Profil Güncelleme: Kullanıcılar, evcil hayvanlarının profil bilgilerini güncelleyebilirler.
+(6) Profil Silme: Kullanıcılar, evcil hayvanlarının profillerini silebilirler.
 
 QR Kod Entegrasyonu
-(7-8)Bir QR kod oluşturulacak. Geçerli ID girildiğinde, sahibinin iletişim bilgileri görüntülenecek.
+(7) QR Kod Oluşturma: Her evcil hayvan için sistem otomatik olarak bir QR kodu oluşturur.
+(8) QR Kod ile İletişim Bilgileri Görüntüleme: Geçerli ID kodu ile tarama yapıldığında, evcil hayvan sahibinin iletişim bilgileri görüntülenir.
 
 Konum Bilgisi Paylaşımı
-(9)Konum izni alınarak, hayvanın son görüldüğü konum bilgisi kullanıcıya iletilecek.
+(9) Konum Paylaşımı: Kullanıcılar, evcil hayvanlarının son görüldüğü konumu, konum izni vererek görüntüleyebilirler.
 
 Kayıp İlanı ve Takip Sistemi
-(10) Kullanıcılar, kaybolan evcil hayvanları için sistem üzerinden ilan oluşturabilecek
+(10) Kayıp İlanı Oluşturma: Kullanıcılar, kaybolan evcil hayvanları için sistem üzerinden ilan oluşturabilirler.
 
+EKSTRALAR
 
-					EKSTRALAR
 Evcil Hayvan Sağlık Takibi
-Evcil hayvanın sağlık geçmişi, aşılar, hastalıklar ve operasyonlar profilde saklanacak.
+(11) Sağlık Bilgileri Takibi: Kullanıcılar, evcil hayvanlarının sağlık geçmişini (aşılar, hastalıklar, operasyonlar) profilde saklayabilirler.
 
 Sağlık Geçmişi Güncelleme ve Silme
-Kullanıcılar, sağlık geçmişini güncelleyebilecek ve silebilecek.
+(12) Sağlık Geçmişi Güncelleme: Kullanıcılar, evcil hayvanlarının sağlık geçmişini güncelleyebilirler.
+(13) Sağlık Geçmişi Silme: Kullanıcılar, evcil hayvanlarının sağlık geçmişini silebilirler.
 
 Ekstra Özellikler ve Entegrasyonlar
+
 E-posta Bildirimleri
-Kayıp ilanları, veteriner randevuları ve aşı hatırlatmaları için e-posta bildirimleri gönderilecek.
+(14) E-posta Bildirimleri Gönderme: Kullanıcılara, kayıp ilanları, veteriner randevuları ve aşı hatırlatmaları hakkında e-posta bildirimleri gönderilecektir.
+
+Kullanıcılar Arası Mesajlaşma
+(15) Mesajlaşma Özelliği: Hayvanı bulan kişi ile sahibi, sistem üzerinden birbirleriyle mesajlaşabilirler.
+
+Acil Durum Bildirimi
+(16) Acil Durum Bildirimi Gönderme: Hayvanı bulan kişi, sistem üzerinden hayvanın sahibine acil bir bildirim gönderebilir.
+
+Veteriner ve Petshop Görüntüleme
+(17) Veteriner ve Petshop Harita Görüntüleme: Kullanıcılar, harita üzerinden en yakın veteriner klinikleri ve petshopları görüntüleyebilirler.
 
 Kullanıcılar Arası Mesajlaşma
 Hayvanı bulan kişi ile sahibi sistem üzerinden mesajlaşabilecek.
