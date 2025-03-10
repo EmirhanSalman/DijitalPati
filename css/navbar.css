@@ -1,0 +1,72 @@
+
+.top-navbar ul {
+    list-style-type: none;
+    width: 100%;
+    padding: 5px;
+    background-color: rgb(30, 29, 29);
+    z-index: 1000;
+    margin: 0; /* Ekledim, ul'nin varsayılan margin'ini sıfırladım */
+    padding-left: 0; /* Ekledim, ul'nin varsayılan padding'ini sıfırladım */
+  }
+  
+  
+  
+  .top-navbar ul li {
+    display: inline-block;
+    border-radius: 10%;
+    margin-left: 10%;
+    padding-left: 10px;
+    padding-right: 10px;
+  
+    padding-top: 2px;
+    padding-bottom: 5px;
+    
+    /* width: 120px; */ /* İsteğe bağlı olarak kaldırabilirsiniz */
+  }
+  
+  .top-navbar #news-content ul li {
+    display: inline-block;
+    
+    margin-left: 0%;
+    margin-top: 1px;
+    padding: 8px;
+    margin-top: -2px;
+    /* width: 120px; */ /* İsteğe bağlı olarak kaldırabilirsiniz */
+  }
+  
+  .top-navbar ul li:hover {
+    background-color:#264d4d;
+    transition: 0.9s;
+  }
+  
+  
+  .top-navbar ul li a {
+    text-decoration: none;
+    color: rgb(252, 252, 252);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  
+  .top-navbar .dp-news:hover #news-content {
+    display: block;
+  }
+  
+  .top-navbar #news-content {
+    margin-left: -12px;
+    width: 130px;
+    position: absolute;
+    display:none;
+    z-index: 10;
+    margin-top: 5px;
+    transition: 0.9s;
+    border: 0px;
+    border-radius: 5%;
+  }
+  
+  .top-navbar #news-content ul  {
+    border-radius: 5%;
+    display: block; /* açılır menü li elemanlarını alt alta sıralar */
+    padding: 5px;
+    padding-top: 10px;
+  }
+  
