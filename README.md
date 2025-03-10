@@ -3,7 +3,7 @@
 Evcil Hayvan QR Kod Web Uygulaması - Proje Özeti
 DijitalPati, evcil hayvan sahipleri için kaybolma durumlarında hızlı çözümler sunan, sağlık takibini kolaylaştıran ve en yakın veteriner ile petshop bilgilerine erişim sağlayan bir platformdur. Kullanıcılar, evcil hayvanlarının bilgilerini sisteme ekleyebilir, QR kod entegrasyonu sayesinde kaybolmaları durumunda hızlı bir şekilde bulunmalarını sağlayabilir. Ayrıca, sağlık geçmişlerini takip edebilir ve topluluk desteği alabilirler.
 
-🔹 Platformun Temel Özellikleri
+🔹 Platformun Temel Özellikleri<br>
 📌 Evcil Hayvan Profili ve QR Kod Entegrasyonu
 Kullanıcılar, evcil hayvanları için profil oluşturabilir, bilgilerini güncelleyebilir ve sağlık geçmişlerini saklayabilir.
 Her evcil hayvan için benzersiz bir QR kod oluşturulur.
