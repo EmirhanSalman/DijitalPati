@@ -1,36 +1,30 @@
-DijitalPati Projesi - Gereksinim Listesi
-Kullanıcı Yönetimi ve Profil
-Kullanıcı Kaydı ve Giriş Sistemi
-Kullanıcılar, sisteme kayıt olabilir ve giriş yapabilir.
+Proje Kategorisi ve Ekstra Bilgiler
+Proje Kategorisi: Evcil Hayvan Teknolojileri
+Grup Adı: Patisel
+Proje Ekibi: Emirhan Salman
 
-E-posta ve Telefon Doğrulama
-Kullanıcıların e-posta ve telefon numaraları ile doğrulama yapılması sağlanacak.
+DijitalPati Projesi - Gereksinim Listesi
+
+Kullanıcı Kaydı ve Giriş Sistemi
+(1-2)Kullanıcılar, sisteme kayıt olabilir ve giriş yapabilir.
 
 Kullanıcı Profili Oluşturma
-Kullanıcılar, evcil hayvanları için eksiksiz bir profil oluşturabilecek (Ad, tür, cins, yaş, özel işaretler, fotoğraflar).
+(3-4)Kullanıcılar, evcil hayvanları için eksiksiz bir profil oluşturabilecek (Ad, tür, cins, yaş, özel işaretler, fotoğraflar).Her evcil hayvan profili için benzersiz bir ID kod oluşturulacak
 
-Kullanıcı Profil Bilgilerinin Güncellenmesi ve Silinmesi
-Kullanıcılar, profil bilgilerini güncelleyebilecek ve silebilecek.
-
-Evcil Hayvan Profili ve QR Kod Entegrasyonu
-Evcil Hayvan Profili Oluşturulması
-Her evcil hayvan için benzersiz bir profil oluşturulacak ve bu profil, hayvanın adı, türü, yaşı gibi bilgileri içerecek.
+(5-6)Kullanıcı Profil Bilgilerinin Güncellenmesi ve Silinmesi
 
 QR Kod Entegrasyonu
-Her evcil hayvan profili için benzersiz bir QR kod oluşturulacak. QR kod okutulduğunda, evcil hayvanın profil bilgileri ve sahibinin iletişim bilgileri görüntülenecek.
+(7-8)Bir QR kod oluşturulacak. Geçerli ID girildiğinde, sahibinin iletişim bilgileri görüntülenecek.
 
 Konum Bilgisi Paylaşımı
-Konum izni alınarak, hayvanın son görüldüğü konum bilgisi kullanıcıya iletilecek.
+(9)Konum izni alınarak, hayvanın son görüldüğü konum bilgisi kullanıcıya iletilecek.
 
 Kayıp İlanı ve Takip Sistemi
-Kayıp İlanı Yayınlama
-Kullanıcılar, kaybolan evcil hayvanları için sistem üzerinden ilan oluşturabilecek ve bu ilanlar harita üzerinde gösterilecek.
+(10) Kullanıcılar, kaybolan evcil hayvanları için sistem üzerinden ilan oluşturabilecek
 
-Kayıp Hayvan Takibi
-Harita üzerinde, kaybolan hayvanın bulunduğu bölge işaretlenecek.
 
+					EKSTRALAR
 Evcil Hayvan Sağlık Takibi
-Sağlık Geçmişi Kaydı
 Evcil hayvanın sağlık geçmişi, aşılar, hastalıklar ve operasyonlar profilde saklanacak.
 
 Sağlık Geçmişi Güncelleme ve Silme
@@ -48,8 +42,3 @@ Hayvanı bulan kişi, hayvanın sahibine acil bir bildirim gönderebilecek.
 
 Veteriner ve Petshop Görüntüleme
 Harita üzerinde, en yakın veteriner klinikleri ve petshoplar görüntülenebilecek.
-
-Proje Kategorisi ve Ekstra Bilgiler
-Proje Kategorisi: Evcil Hayvan Teknolojileri
-Grup Adı: Patisel
-Proje Ekibi: Emirhan Salman
