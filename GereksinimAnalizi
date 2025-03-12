@@ -18,7 +18,7 @@ Kullanıcı Profil Bilgilerinin Güncellenmesi ve Silinmesi
 (6) Profil Silme: Kullanıcılar, evcil hayvanlarının profillerini silebilirler.
 
 QR Kod Entegrasyonu
-(7) QR Kod Oluşturma: Her evcil hayvan için sistem otomatik olarak bir QR kodu oluşturur.
+(7) QR Kod ile ID Entegrasyonu: QR kod sayfasına girilen ID sayesinde evcil hayvan profiline erişim sağlanır.
 (8) QR Kod ile İletişim Bilgileri Görüntüleme: Geçerli ID kodu ile tarama yapıldığında, evcil hayvan sahibinin iletişim bilgileri görüntülenir.
 
 Konum Bilgisi Paylaşımı
@@ -26,26 +26,32 @@ Konum Bilgisi Paylaşımı
 
 Kayıp İlanı ve Takip Sistemi
 (10) Kayıp İlanı Oluşturma: Kullanıcılar, kaybolan evcil hayvanları için sistem üzerinden ilan oluşturabilirler.
+(11) Kayıp İlanı Güncelleme: Kullanıcılar, oluşturdukları kayıp ilanlarını güncelleyebilirler.
+(12) Kayıp İlanı Silme: Kullanıcılar, oluşturdukları kayıp ilanlarını silebilirler.
 
-EKSTRALAR
+Ekstralar
 
-Evcil Hayvan Sağlık Takibi
-(11) Sağlık Bilgileri Takibi: Kullanıcılar, evcil hayvanlarının sağlık geçmişini (aşılar, hastalıklar, operasyonlar) profilde saklayabilirler.
-
-Sağlık Geçmişi Güncelleme ve Silme
-(12) Sağlık Geçmişi Güncelleme: Kullanıcılar, evcil hayvanlarının sağlık geçmişini güncelleyebilirler.
-(13) Sağlık Geçmişi Silme: Kullanıcılar, evcil hayvanlarının sağlık geçmişini silebilirler.
-
-Ekstra Özellikler ve Entegrasyonlar
+Sağlık Geçmişi ve Takip Sistemi
+(13) Sağlık Geçmişi Oluşturma: Kullanıcılar, evcil hayvanlarının sağlık geçmişini (aşılar, hastalıklar, operasyonlar) profilde saklayabilirler.
+(14) Sağlık Geçmişi Güncelleme: Kullanıcılar, evcil hayvanlarının sağlık geçmişini güncelleyebilirler.
+(15) Sağlık Geçmişi Silme: Kullanıcılar, evcil hayvanlarının sağlık geçmişini silebilirler.
 
 E-posta Bildirimleri
-(14) E-posta Bildirimleri Gönderme: Kullanıcılara, kayıp ilanları, veteriner randevuları ve aşı hatırlatmaları hakkında e-posta bildirimleri gönderilecektir.
+(16) E-posta Bildirimleri Gönderme: Kullanıcılara, kayıp ilanları, veteriner randevuları ve aşı hatırlatmaları hakkında e-posta bildirimleri gönderilecektir.
 
 Kullanıcılar Arası Mesajlaşma
-(15) Mesajlaşma Özelliği: Hayvanı bulan kişi ile sahibi, sistem üzerinden birbirleriyle mesajlaşabilirler.
+(17) Mesajlaşma Özelliği: Hayvanı bulan kişi ile sahibi, sistem üzerinden birbirleriyle mesajlaşabilirler.
 
 Acil Durum Bildirimi
-(16) Acil Durum Bildirimi Gönderme: Hayvanı bulan kişi, sistem üzerinden hayvanın sahibine acil bir bildirim gönderebilir.
+(18) Acil Durum Bildirimi Gönderme: Hayvanı bulan kişi, sistem üzerinden hayvanın sahibine acil bir bildirim gönderebilir.
 
 Veteriner ve Petshop Görüntüleme
-(17) Veteriner ve Petshop Harita Görüntüleme: Kullanıcılar, harita üzerinden en yakın veteriner klinikleri ve petshopları görüntüleyebilirler.
+(19) Veteriner ve Petshop Harita Görüntüleme: Kullanıcılar, harita üzerinden en yakın veteriner klinikleri ve petshopları görüntüleyebilirler.
+
+
+
+
+
+
+
+
