@@ -12,8 +12,9 @@ body{
 }
 
 .wrapper {
-  max-width: 350px;
-  min-height: 360px;
+  max-width:85%;
+  min-height: 80%;
+  margin-right: 20px;
   margin: 80px auto;
   padding: 40px 30px 30px 30px;
   background-color: black;
@@ -47,7 +48,7 @@ body{
     font-weight: 600;
     font-size: 1.4rem;
     letter-spacing: 1.3px;
-    padding-left: 10px;
+    padding-left: px;
     color: #242424;
     
   }
